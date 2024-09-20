@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovisha&label=Profile%20views&color=0e75b6&style=flat" alt="kovisha" /> </p>
 
-- 🔭 I’m currently working on **Data Engineering tools**
+- 🔭 I’m currently working on **Data Engineering and Business Intelligence tools**
 
 - 👯 I’m looking to collaborate on **Data science / Machine Learning projects**
 
 - 📝 I regularly write articles on [https://medium.com/@kovishak](https://medium.com/@kovishak)
 
-- 💬 Ask me about **Data science / AI and ML / Big Data**
+- 💬 Ask me about **Data science / AI and ML / Big Data / BI**
 
 - 📫 How to reach me **kovishak@gmail.com**
 
